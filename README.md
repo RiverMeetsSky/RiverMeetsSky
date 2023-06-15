@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RiverMeetsSky
 - 👀 I’m interested in a lot of things in life!
-- 🌱 I’m currently learning all the basics in coding.
+- 🌱 I’m currently learning the basics in coding.
 - 💞️ I’m looking to collaborate on a few beginner friendly coding projects.
 - 📫 How to reach me ... here?
 
